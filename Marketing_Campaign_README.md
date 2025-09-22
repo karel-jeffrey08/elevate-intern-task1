@@ -44,6 +44,3 @@ The objective was to clean and preprocess the raw marketing campaign dataset by 
 ## Outcome
 The dataset is now clean, consistent, and ready for downstream data analysis or machine learning tasks.
 
----
-
-*Prepared for Elevate Labs Data Analyst Internship submission*
