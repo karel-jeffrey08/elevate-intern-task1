@@ -31,7 +31,7 @@ The objective was to clean and preprocess the raw dataset by handling missing va
    - Saved the cleaned dataset as `Mall_Customers_Cleaned.xlsx` for subsequent analysis.
 
 ## Tools Used
-- Excel Sheet from WPS was used for all data cleaning and preprocessing steps.
+- Excel Sheet from WPS Office was used for all data cleaning and preprocessing steps.
 
 ## Outcome
 The dataset is now clean, consistent, and ready for further analysis or modeling tasks.
